@@ -1,0 +1,73 @@
+.container {
+  align-content: center;
+  background: rgb(76, 82, 88);
+  width: 90%;
+  height: 90%;
+  margin: auto;
+}
+
+* {
+  background-color: lightslategrey;
+}
+
+h1 {
+  color: aliceblue;
+  background-image: url("/images/pexels-irina-iriser-673803.jpg");
+  background-position: center;
+  height: 20rem;
+  object-fit: cover;
+  background-size: cover;
+  text-align: center;
+  text-shadow: 5px 5px 5px black;
+}
+.heading {
+  color: aliceblue;
+  background-color: rgb(76, 82, 88);
+  text-align: center;
+}
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  background-color: lightslategrey;
+  color: aliceblue;
+  border: aliceblue;
+}
+
+/* all lists are noted below   */
+.tracks {
+}
+
+.express li {
+  list-style: circle;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navlist li {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.travel-list li {
+  list-style: circle;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contact {
+  list-style: none;
+  background-color: lightslategrey;
+  color: aliceblue;
+}
+
+/* all images and buttons are noted below */
+
+.img-train {
+  border: 5px solid rgb(76, 82, 88);
+  color: white;
+  background-color: rgb(76, 82, 88);
+}
+
+.button {
+  padding: 14px 3px 0.5px 3px;
+  background-color: white;
+}
